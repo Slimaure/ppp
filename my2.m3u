@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,panamericana daily
+http://192.168.1.13:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy5kYWlseW1vdGlvbi5jb20vdmlkZW8veDc3NHM3cyBiZXN0/
+#EXTINF:-1,willax daily
+http://192.168.1.13:53422/base64/c3RyZWFtbGluayAgaHR0cHM6Ly93d3cuZGFpbHltb3Rpb24uY29tL3ZpZGVvL3g3eDRkZ3ggYmVzdA==/
+#EXTINF:-1,wild okru
+http://192.168.1.13:53422/base64/c3RyZWFtbGluayBodHRwczovL29rLnJ1L3ZpZGVvLzMwMDU0MzAxNzc0OTEgYmVzdA==/
+#EXTINF:-1,hh
+http://192.168.1.13:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy50d2l0Y2gudHYvYXdfdHQ1NSBiZXN0/
+#EXTINF:-1,cartoon
+http://192.168.1.13:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy50d2l0Y2gudHYvMjhra2N0b29uIGJlc3Q=/
+#EXTINF:-1,disney
+http://192.168.1.13:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy50d2l0Y2gudHYvZGtfMDE0MyBiZXN0/
+#EXTINF:-1,nick
+http://192.168.1.13:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy50d2l0Y2gudHYvdGVlbjkyMCBiZXN0/
+#EXTINF:-1,simpson
+http://192.168.1.13:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy50d2l0Y2gudHYvc2ltcHNvbl9tYW5pYTA0IGJlc3Q=/
+#EXTINF:-1,peliculas
+http://192.168.1.13:53422/base64/c3RyZWFtbGluayBodHRwczovL3d3dy50d2l0Y2gudHYvcGVsaWN1bGFzMjAwMCBiZXN0/
