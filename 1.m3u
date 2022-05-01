@@ -29,8 +29,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://www.lyngsat.com/logo/tv/ee/exitosa_pe_tv.png",Exitosa TV (720p)
 https://cu.onliv3.com/livevd1/user2.m3u8
-#EXTINF:-1 tvg-id="VisionNoticiasPeruVNP.pe" tvg-logo="https://graph.facebook.com/vnptv.pe/picture?width=320&height=320",Visión Noticias Perú (VNP) (720p) [Not 24/7]
-https://videoserver.tmcreativos.com:19360/vnpnoticias/vnpnoticias.m3u8
 #EXTINF:-1 tvg-logo="https://www.mi-television.com/img/imagen-final-2_orig.png", MITV series clasicas
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/13f3dd20-e343-4802-a002-0091fc96fd9f", USMP
