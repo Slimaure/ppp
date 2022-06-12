@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/vnptv.pe/picture?width=320&height=320",Visión Noticias Perú (VNP)
-https://videoserver.tmcreativos.com:19360/vnpnoticias/vnpnoticias.m3u8
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMFG5au.png",Latina
 http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=320&height=320",Panamericana
