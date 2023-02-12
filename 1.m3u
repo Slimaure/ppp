@@ -1,37 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/vnptv.pe/picture?width=320&height=320",Visión Noticias Perú (VNP)
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RMFG5au.png",Latina
-http://177.53.152.186:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=320&height=320",Panamericana
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png",TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png",TV Perú Noticias
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://graph.facebook.com/ATV.pe/picture?width=320&height=320",ATV (480p) [Not 24/7]
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://graph.facebook.com/atvmasnoticias/picture?width=320&height=320",ATV+ Noticias (480p) [Not 24/7]
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR3KbLyGOOI4KBmCggi_BfgKDP7UcvqQVzhcyhe=s900-c-k-c0x00ffffff-no-rj", CULTURA24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w366215588_b564000_sles.m3u8
 #EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://graph.facebook.com/Tele2000oficial/picture?width=320&height=320",Tele2000 (Ayacucho) (720p) [Not 24/7]
 https://servilive.com:3126/live/tele2000live.m3u8
-#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://graph.facebook.com/agrotendencia/picture?width=320&height=320",AgrotendenciaTV (480p) [Not 24/7]
-https://inliveserver.com:1936/15506/15506/playlist.m3u8
 #EXTINF:-1 tvg-id="Asiritv.pe" tvg-logo="https://graph.facebook.com/Asiritv/picture?width=320&height=320",AsiriTV (Lima) (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/7hP4nps.png",BHTV (720p) [Not 24/7]
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalEvelyn.pe" tvg-logo="https://graph.facebook.com/cableEvelynsac/picture?width=320&height=320",Canal E (Evelyn) (Altomayo) (720p) [Not 24/7]
-https://srv1.mediastreamperu.com:8081/8006/index.m3u8
 #EXTINF:-1 ,Central TV (Chosica) (614p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://graph.facebook.com/RadioConecta2/picture?width=320&height=320",Conecta2TV (Lima) (720p) [Not 24/7]
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://www.lyngsat.com/logo/tv/ee/exitosa_pe_tv.png",Exitosa TV (720p)
 https://cu.onliv3.com/livevd1/user2.m3u8
-#EXTINF:-1 tvg-logo="https://www.mi-television.com/img/imagen-final-2_orig.png", MITV series clasicas
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/13f3dd20-e343-4802-a002-0091fc96fd9f", USMP
-http://200.48.236.2:8080/live/stream.m3u8
