@@ -1,21 +1,31 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/vnptv.pe/picture?width=320&height=320",Visión Noticias Perú (VNP)
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=320&height=320",Panamericana
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png",TV Perú
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png",TV Perú Noticias
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR3KbLyGOOI4KBmCggi_BfgKDP7UcvqQVzhcyhe=s900-c-k-c0x00ffffff-no-rj", CULTURA24 TV
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w366215588_b564000_sles.m3u8
 #EXTINF:-1 tvg-id="Tele2000.pe" tvg-logo="https://graph.facebook.com/Tele2000oficial/picture?width=320&height=320",Tele2000 (Ayacucho) (720p) [Not 24/7]
 https://servilive.com:3126/live/tele2000live.m3u8
-#EXTINF:-1 tvg-id="Asiritv.pe" tvg-logo="https://graph.facebook.com/Asiritv/picture?width=320&height=320",AsiriTV (Lima) (720p) [Not 24/7]
-https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 ,Central TV (Chosica) (614p) [Not 24/7]
-https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://graph.facebook.com/RadioConecta2/picture?width=320&height=320",Conecta2TV (Lima) (720p) [Not 24/7]
-https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://www.lyngsat.com/logo/tv/ee/exitosa_pe_tv.png",Exitosa TV (720p)
-https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:-1 tvg-id="SEOTV7.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Comedy",SEO TV 7 (1080p)
+https://live.seo.tv.bo/live/7SEO.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="General",Latina (720p) [Geo-blocked]
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (720p) [Not 24/7]
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="General",ATV Sur (720p) [Not 24/7]
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="General",TV Perú (720p) [Not 24/7]
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="General",TV Perú Internacional (460p) [Not 24/7]
+https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_2.m3u8
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="News",TV Perú Noticias (768p) [Not 24/7]
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_2.m3u8
+#EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="Music",TV Peruanísima (720p) [Not 24/7]
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSistemasCuzco.pe" tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="General",TV Sistemas Cuzco (360p) [Not 24/7]
+https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8
+#EXTINF:-1 tvg-id="TVenLinea.pe" tvg-logo="https://i.imgur.com/txV8lw0.png" group-title="General",TVenLinea (720p) [Not 24/7]
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="General",Panamericana TV (298p) [Not 24/7]
+https://cdnhd.iblups.com/hls/ptv2.m3u8
